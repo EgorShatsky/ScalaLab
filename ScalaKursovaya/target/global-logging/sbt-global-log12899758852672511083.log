@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(clear, Some(61cb03b8-8143-4764-b58a-ca5ff4803374), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: clear (similar: clearCaches, client, last)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: clear[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: clear (similar: clean, cleanIvy, compileEarly)[0m
+[0m[[0m[31merror[0m] [0m[0mclear[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-17db6badb2dbbf306cf5. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-17db6badb2dbbf306cf5_lock, error 5[0m

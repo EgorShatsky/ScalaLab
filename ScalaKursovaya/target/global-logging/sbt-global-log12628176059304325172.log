@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(cls, Some(aac0af0b-0580-478d-b7aa-20c65cf45295), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: cls (similar: last, alias, set)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: cls[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: cls (similar: clean, ps, compilers)[0m
+[0m[[0m[31merror[0m] [0m[0mcls[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-17db6badb2dbbf306cf5. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-17db6badb2dbbf306cf5_lock, error 5[0m

@@ -1,0 +1,11 @@
+[debug] > Exec(QuikstartApp, None, None)
+[error] Not a valid command: QuikstartApp
+[error] Not a valid project ID: QuikstartApp
+[error] Expected ':'
+[error] Expected '/'
+[error] Not a valid key: QuikstartApp
+[error] QuikstartApp
+[error]             ^
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
